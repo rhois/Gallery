@@ -1,0 +1,21 @@
+<widgets>
+    <file_download type="filedownload/download" translate="name description">
+        <name>Download</name>
+        <description>Adds file download to your website.</description>
+        <parameters>
+            <siteID>
+                <label>Download</label>
+                <visible>1</visible>
+                <required>1</required>
+                <type>text</type>
+            </siteID>
+            <customConfig>
+                <label>Developer API snippets</label>
+                <visible>1</visible>
+                <required>0</required>
+                <type>textarea</type>
+                <description/>
+            </customConfig>
+        </parameters>
+    </file_download>
+</widgets>
