@@ -1,1 +1,1 @@
-# Gallery mocule for Magento v.1.9.0
+# Gallery module for Magento v.1.9.0
